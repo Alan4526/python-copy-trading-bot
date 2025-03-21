@@ -1,0 +1,19 @@
+{
+    "master": {
+        "login": "YOUR_LOGIN",
+        "password": "YOUR_PASSWORD",
+        "server": "YOUR_SERVER"
+    },
+    "slaves": [
+        {
+            "login": "YOUR_LOGIN",
+            "password": "YOUR_PASSWORD",
+            "server": "YOUR_SERVER"
+        },
+        {
+            "login": "YOUR_LOGIN",
+            "password": "YOUR_PASSWORD",
+            "server": "YOUR_SERVER"
+        }
+    ]
+}
